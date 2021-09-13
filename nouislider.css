@@ -75,17 +75,3 @@
 		left:				-9px;
 	}
 }
-/*
-#volume_thumb {
-    -moz-transition: left 0.07s ease-out 0s;
-    background-image: url("../images/volume_knob.png");
-    background-position: 0 0;
-    background-repeat: no-repeat;
-    cursor: pointer;
-    height: 16px;
-    left: 60px;
-    position: absolute;
-    top: -2px;
-    width: 16px;
-    z-index: 100;
-}*/
